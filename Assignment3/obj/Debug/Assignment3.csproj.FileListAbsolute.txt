@@ -1,0 +1,7 @@
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\bin\Debug\Assignment3.dll.config
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\bin\Debug\Assignment3.dll
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\obj\Debug\Assignment3.dll
+C:\Users\matth\Downloads\Assignment3Skeleton\Assignment3\obj\Debug\Assignment3.pdb
